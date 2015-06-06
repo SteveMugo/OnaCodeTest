@@ -16,7 +16,7 @@ import java.nio.charset.Charset;
 
 /**
  *
- * @author Yvonne Elsie
+ * @author  Steven Mugo
  */
 public class HttpConnection {
     public String URL_CONNECTION;
